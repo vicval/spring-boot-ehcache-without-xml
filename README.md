@@ -5,4 +5,4 @@ This application cover below point on spring boot application for ehcache config
 1) Implment ehcache configuration without xml
 2) How to update ehcache data dynamically
 
-   [Step by step guide](../../wiki)
+   [Click here for step by step guide](../../wiki)
